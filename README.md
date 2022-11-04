@@ -1,9 +1,14 @@
-# Hi there, I'm Ilias! 👋
+# Hi, I'm Ilias! 👋
+
+### I am a software engineer, freshly graduated, passionate about web development.
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LyamoudiIlias&show_icons=true&theme=transparent" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
+
+- 🔭 I’m currently working on a personnal Web application.
+- 🌱 Languages that I'm interested on working with :
 
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 

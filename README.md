@@ -1,6 +1,6 @@
 # Hey, I'm Ilias! 👋
 
-Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** from **Morocco**, passionate about **Web Development**.
+Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, passionate about **Web Development**.
 
 #### 🔭  Currently, I'm working on a personnal Web application. 
 

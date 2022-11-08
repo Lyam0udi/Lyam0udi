@@ -37,6 +37,13 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
+<div class="row">
+  <img align="left" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
+  
+  <img align="left" alt="GIF" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e476jhs5yo74pisxd60ufbmw3r43mlh09tpyshznzvb&rid=giphy.gif&ct=g"  width="47%"/>
+
+
+</div>
 <!--
 **LyamoudiIlias/LyamoudiIlias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

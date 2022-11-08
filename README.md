@@ -8,6 +8,17 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
 
+<div class="row">
+  <p>
+    <h1>About Personal Stuffs : </h1>
+
+  - 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮. I'm also learning chess game ♟️;
+  - 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
+  - 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
+  </p>
+    <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
+</div>
+
 <p>
 <h1>Skills & Tools : </h1>
 </p>
@@ -34,16 +45,6 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<div class="row">
-<p>
-<h1>About Personal Stuffs : </h1>
-
-- 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮. I'm also learning chess game ♟️;
-- 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
-- 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
-</p>
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
-</div>
 
 <!--
 **LyamoudiIlias/LyamoudiIlias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

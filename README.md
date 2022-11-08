@@ -4,10 +4,17 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 #### 🔭  Currently, I'm working on a personnal Web application. 
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=LyamoudiIlias&show_icons=true&theme=transparent" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=LyamoudiIlias&show_icons=true&theme=transparent" />
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
 
+### About Personal Stuffs :
+
+- 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮. I'm also learning chess game ♟️;
+- 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
+- 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
+
+### Skills & Tools :
 
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
@@ -28,6 +35,7 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
 
 <!--
 **LyamoudiIlias/LyamoudiIlias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

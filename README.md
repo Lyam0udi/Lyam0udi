@@ -10,6 +10,7 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 ## Skills & Tools :
 
+<div>
   <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -29,18 +30,16 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
   <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-<!--  
-  <img align="left" alt="GIF" src="https://media3.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif?cid=ecf05e47mcyh3ioe7cv42ui2djfo8n9rcc542ujyzt5f79gl&rid=giphy.gif&ct=g"  width="47%"/>-->
-
-### About Personal Stuffs :
+<p>
+<h1>About Personal Stuffs : </h1>
 
 - 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮. I'm also learning chess game ♟️;
 - 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
 - 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
-
-
-  <img align="left" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
+</p>
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
 
 
 <!--

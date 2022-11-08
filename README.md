@@ -8,7 +8,9 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
 
-## Skills & Tools :
+<p>
+<h1>Skills & Tools : </h1>
+</p>
 
 <div>
   <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />

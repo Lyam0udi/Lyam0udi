@@ -4,9 +4,9 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 #### 🔭  Currently, I'm working on a personnal Web application. 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LyamoudiIlias&show_icons=true&theme=transparent" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=LyamoudiIlias&show_icons=true&theme=transparent" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyamoudiIlias&layout=compact" />
 
 
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />

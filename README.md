@@ -20,7 +20,7 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 </div>
 
 <p>
-<h1>Skills & Tools : </h1>
+<h1>Skills & Tools :</h1>
 </p>
 
 <div class="row">

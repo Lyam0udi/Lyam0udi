@@ -4,10 +4,6 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 
 #### 🔭  Currently, I'm working on a personnal Web application. 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" />
-
 <div class="row">
   <p>
     <h1>About Personal Stuffs : </h1>

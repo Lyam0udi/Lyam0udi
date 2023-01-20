@@ -17,6 +17,15 @@ I am motivated to learn new technologies and take on challenges to continually i
     <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
 </div>
 
+  <p>
+    <h1>Find me around the web 🌎: </h1>
+
+  - Personal Portfolio on <a href="https://lyam0udi.netlify.com/"> Portfolio</a> 🛠
+  - Networking on <a href="https://www.linkedin.com/in/lyam0udi/">LinkedIn</a> 💼
+  </p>
+
+</div>
+
 <p>
 <h1>Skills & Tools :</h1>
 </p>

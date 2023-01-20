@@ -1,6 +1,8 @@
 # Hey, I'm Ilias! 👋 💻
 
-Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, passionate about **Web Development**.
+Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, freshly graduated, passionate about **Full stack Web Development**, based on Java, Spring Boot, ReactJS.
+I am motivated to learn new technologies and take on challenges to continually improve my skills and contribute to exciting projects. I am also interested in industry trends and innovative projects that use the latest technologies.
+
 
 #### 🔭  Currently, I'm working on a personnal Web application. 
 

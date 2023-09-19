@@ -34,6 +34,7 @@ I am motivated to learn new technologies and take on challenges to continually i
 <h1>Skills & Tools :</h1>
 </p>
 
+
 <div class="row">
   <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 

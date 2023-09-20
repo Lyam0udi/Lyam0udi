@@ -4,7 +4,6 @@ Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, 
 I am motivated to learn new technologies and take on challenges to continually improve my skills and contribute to exciting projects. I am also interested in industry trends and innovative projects that use the latest technologies.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" />
 
 

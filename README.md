@@ -21,11 +21,8 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 ## Skills & Tools:
 
-<div>
-<div>
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
-</div>
- 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
 <div align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -57,4 +54,9 @@ I am motivated to learn new technologies and take on challenges to continually i
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 </div>
+
+ <div>
+    <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
+ </div>
+ 
 </div>

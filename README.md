@@ -21,9 +21,9 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 ## Skills & Tools:
 
-<div style="display: flex;">
+<div>
 
-  <div style="flex: 1;">
+  <div>
 
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -55,8 +55,8 @@ I am motivated to learn new technologies and take on challenges to continually i
 
   </div>
 
-  <div style="flex: 1;">
-    <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="30%" />
+  <div>
+    <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%" />
   </div>
  
 </div>

@@ -23,12 +23,12 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 <div>
 
-  <div>
-
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+   
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 
@@ -48,15 +48,12 @@ I am motivated to learn new technologies and take on challenges to continually i
 
    <img alt="Ajax" src="https://img.shields.io/badge/Ajax-%230051C9.svg?style=for-the-badge&logo=ajax&logoColor=white" />
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23e10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
-
    <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+   
    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-  </div>
+   <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%" />
 
-  <div>
-    <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%" />
-  </div>
  
 </div>

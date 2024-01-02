@@ -13,7 +13,7 @@ I am motivated to learn new technologies and take on challenges to continually i
   <p>
     <h1>About Personal Stuffs : </h1>
 
-  - 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮. I'm also learning chess game ♟️;
+  - 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮.
   - 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
   - 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
   </p>

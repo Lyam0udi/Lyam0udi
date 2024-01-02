@@ -14,8 +14,6 @@ I am motivated to learn new technologies and take on challenges to continually i
   - 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
   - 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
-
 ## Find me around the web 🌎:
 
   - Personal Portfolio on <a href="https://lyam0udi.netlify.com/"> Portfolio</a> 🛠
@@ -23,6 +21,11 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 ## Skills & Tools:
 
+<div>
+<div>
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
+</div>
+ 
 <div align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,4 +56,5 @@ I am motivated to learn new technologies and take on challenges to continually i
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
+</div>
 </div>

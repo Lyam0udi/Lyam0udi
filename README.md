@@ -21,7 +21,7 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 ## Skills & Tools:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
 
 <div align="center">
 

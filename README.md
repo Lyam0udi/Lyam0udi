@@ -18,11 +18,12 @@ I am motivated to learn new technologies and take on challenges to continually i
 
   - Personal Portfolio on <a href="https://lyam0udi.netlify.com/"> Portfolio</a> 🛠
   - Networking on <a href="https://www.linkedin.com/in/lyam0udi/">LinkedIn</a> 💼
+    <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g"  width="47%"/>
+
 
 ## Skills & Tools:
 
 <div>
- <div style="left; width: 50%">
 
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -53,10 +54,4 @@ I am motivated to learn new technologies and take on challenges to continually i
    
    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
- </div>
- 
- <div style="right; width: 50%">
-
-   <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" />
- </div>
 </div>

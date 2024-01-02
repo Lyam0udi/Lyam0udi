@@ -1,6 +1,7 @@
-# Hey, I'm Name! 👋 💻
+# Hey, I'm Ilias! 👋 💻
 
-Hi there, I'm **Name**, a **Software Engineer** based in **CountryName**. I recently graduated with a degree in **Softwares & Intelligents Systems** and am passionate about Full-stack Web Development using Java and ReactJS. I'm eager to learn new technologies, take on challenges, and contribute to exciting projects.
+Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, freshly graduated, passionate about **Full stack Web Development**, based on Java, Spring Boot, ReactJS.
+I am motivated to learn new technologies and take on challenges to continually improve my skills and contribute to exciting projects. I am also interested in industry trends and innovative projects that use the latest technologies.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" width="48%" />
@@ -11,16 +12,16 @@ Hi there, I'm **Name**, a **Software Engineer** based in **CountryName**. I rece
 
 ## About Personal Stuffs:
 
-- 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽, and gaming 🎮.
-- 🎓 I recently earned my engineering degree in **Softwares & Intelligents Systems**.
-- 📫 If you want to contact me, I can be reached via [mail@gmail.com](mailto:mail@gmail.com).
+ - 🧑🏻 Some of my hobbies are drawing 🎨, sport ⚽ and gaming 🎮.
+  - 🎓 I had my engineering degree recently in **Softwares & Intelligents Systems**;
+  - 📫 If you want to contact me, I can be reached via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
 
 ## Find me around the web 🌎:
 
-- Personal Portfolio on [PortfolioLink](#) 🛠
-- Networking on [LinkedIn](#) 💼
+  - Personal Portfolio on <a href="https://lyam0udi.netlify.com/"> Portfolio</a> 🛠
+  - Networking on <a href="https://www.linkedin.com/in/lyam0udi/">LinkedIn</a> 💼
 
 ## Skills & Tools:
 

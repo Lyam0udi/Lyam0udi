@@ -3,9 +3,14 @@
 Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, freshly graduated, passionate about **Full stack Web Development**, based on Java, Spring Boot, ReactJS.
 I am motivated to learn new technologies and take on challenges to continually improve my skills and contribute to exciting projects. I am also interested in industry trends and innovative projects that use the latest technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" width="48%" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" width="100%" />
+  </div>
+  <div>
+    <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="100%"/>
+  </div>
 </div>
 
 ## 🔭 Currently, I'm working on a Web application.

@@ -35,6 +35,8 @@ I am motivated to learn new technologies and take on challenges to continually i
 
 
 <div class="row">
+  <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  
   <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -54,7 +56,6 @@ I am motivated to learn new technologies and take on challenges to continually i
   <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  ![GitHub package.json version](https://img.shields.io/github/package-json/v/your-username/your-repo)
 
 </div>
 

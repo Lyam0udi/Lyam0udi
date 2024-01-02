@@ -56,7 +56,7 @@ I am motivated to learn new technologies and take on challenges to continually i
   </div>
 
   <div style="flex: 1; text-align: right;">
-    <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%" />
+    <img alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?*cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="100%" />
   </div>
 
 </div>

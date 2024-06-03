@@ -1,7 +1,8 @@
 # Hey, I'm Ilias! 👋 💻
 
-Hi there, I'm **Ilias Lyamoudi**, a **Software Engineer** based in **Morocco**, freshly graduated, passionate about **Full stack Web Development**, based on Java, Spring Boot, ReactJS.
-I am motivated to learn new technologies and take on challenges to continually improve my skills and contribute to exciting projects. I am also interested in industry trends and innovative projects that use the latest technologies.
+Hi there, I'm **Ilias Lyamoudi**, I'm a **web development engineer** specialized in **Java/Spring, React, and Laravel**. I have significant experience in designing and developing Java/JEE/React projects, as well as using the Moovapps Framework. I possess advanced proficiency in **Java, Spring, and ReactJS, with strong competence in Laravel**.
+
+I am motivated to learn **new technologies** and take on challenges to continually improve my skills and contribute to exciting projects. I'm also keenly interested in industry trends and innovative projects that leverage the latest technologies.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" />

@@ -21,7 +21,7 @@ I'm currently working on a web application using **Java/Spring** and **React**.
 
 ## 🌐 Find Me Around the Web
 
-- 🛠 Check out my [Personal Portfolio](https://lyam0udi.netlify.com/)
+- 🛠 Check out my [Personal Portfolio](https://lyam0udi.netlify.app/)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyam0udi/)
 
 <img align="right" alt="Coding GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>

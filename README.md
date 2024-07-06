@@ -1,6 +1,6 @@
 # Hey, I'm Ilias! 👋 💻
 
-Hi there, I'm **Ilias Lyamoudi**, a **web development engineer** specializing in **Java/Spring, React, and Laravel**. I have significant experience in designing and developing Java/JEE/React projects, as well as using the Moovapps Framework. I possess advanced proficiency in **Java, Spring, and ReactJS**, with strong competence in Laravel.
+Hi there, I'm **Ilias Lyamoudi**, a **web development engineer** specializing in **Java/Spring, React, Angular, and Laravel**. I have significant experience in designing and developing Java/JEE/React projects, as well as using the Moovapps Framework. I possess advanced proficiency in **Java, Spring, Angular, and ReactJS**, with strong competence in Laravel.
 
 I am motivated to learn **new technologies** and take on challenges to continually improve my skills and contribute to exciting projects. I'm also keenly interested in industry trends and innovative projects that leverage the latest technologies.
 

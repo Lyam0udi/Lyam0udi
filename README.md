@@ -1,7 +1,7 @@
-# Hey, I'm Ilias! 👋💻
 
 ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
 
+# Hey, I'm Ilias! 👋💻
 
 Hi there, I'm **Ilias Lyamoudi**, a **web development engineer** specializing in **Java/Spring, React, Angular, and Laravel**. I have significant experience in designing and developing Java/JEE/React projects, as well as using the Moovapps Framework. I possess advanced proficiency in **Java, Spring, Angular, and ReactJS**, with strong competence in Laravel.
 

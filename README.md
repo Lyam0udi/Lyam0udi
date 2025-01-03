@@ -14,7 +14,7 @@ I am motivated to learn **new technologies** and take on challenges to continual
 
 ## 🔭 Current Projects
 
-I'm currently working on a web application using **Java/Spring** and **React**.
+I'm currently working on a web application using **Laravel**, **Inertia** and **React**.
 
 ## 🧑‍💻 About Me
 

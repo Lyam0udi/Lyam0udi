@@ -14,7 +14,7 @@ I am motivated to learn **new technologies** and take on challenges to continual
 
 ## 🔭 Current Projects
 
-I'm currently working on a web application using **Laravel**, **Inertia** and **React**.
+I'm currently working on a web portfolio template kit application using **Vite v6.3.1**, **Tailwind CSS v4.0** and **React v19.0**.
 
 ## 🧑‍💻 About Me
 

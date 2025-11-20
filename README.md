@@ -116,9 +116,9 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 | Project | Description | Tech | Demo |
 |---------|------------|------|------|
-| Restaurant Kit Template | Responsive template for restaurants | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
-| Artist Gallery | Freelance project for an artist | Laravel + React + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
-| Personal Portfolio | My showcase & hub of templates | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
+| Restaurant Kit Template | Responsive template for restaurants | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
+| Artist Gallery | Freelance project for an artist | Laravel + React + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
+| Personal Portfolio | My showcase & hub of templates | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.netlify.app/) |
 
 > Each project is crafted solo, focusing on **speed, functionality, and clean design**.
 

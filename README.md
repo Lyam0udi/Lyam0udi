@@ -100,7 +100,7 @@ I build <strong>templates, CMS tools, and digital products</strong> ; solo, clea
 ## 🛠️ About Me
 
 I started as a software engineer mastering both front-end and back-end.  
-Now, I’m a **Solo Dev** — turning ideas into **templates, CMSs, ERPs, and practical tools** that people actually use.  
+Now, I’m a **Solo Dev**; turning ideas into **templates, CMSs, ERPs, and practical tools** that people actually use.  
 
 I thrive at the intersection of **logic and creativity**, building **fast, elegant, and production-ready products** with minimal overhead.
 
@@ -130,7 +130,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=radical&hide_rank=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=default&langs_count=8&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&langs_count=8&theme=radical&layout=compact" width="45%" />
 </p>
 
 <p align="center">
@@ -138,6 +138,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 </p>
 
 ---
+
 
 <!-- ======================================== -->
 <!--         SKILLS / FLEX SECTION           -->

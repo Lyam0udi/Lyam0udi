@@ -67,9 +67,9 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 
 
-<!-- ================================ -->
-<!--        HERO / INTRO SECTION      -->
-<!-- ================================ -->
+<!-- ======================================== -->
+<!--          HERO / INTRO SECTION            -->
+<!-- ======================================== -->
 
 <p align="center">
   <pre>
@@ -81,7 +81,7 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 <h1 align="center">Hi, I'm Ilias Lyamoudi 👋</h1>
 <p align="center">
-  I build **templates, CMS tools, and digital products** — solo, fast, and precise.
+  I build <strong>templates, CMS tools, and digital products</strong> — solo, fast, and precise.
 </p>
 <p align="center">
   <strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
@@ -93,9 +93,9 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 ---
 
-<!-- ================================ -->
-<!--      STORYTELLING SECTION        -->
-<!-- ================================ -->
+<!-- ======================================== -->
+<!--          STORYTELLING SECTION            -->
+<!-- ======================================== -->
 
 ## 🛠️ About Me
 
@@ -108,9 +108,9 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 ---
 
-<!-- ================================ -->
-<!--          LIVE PROJECTS           -->
-<!-- ================================ -->
+<!-- ======================================== -->
+<!--          LIVE PROJECTS SECTION           -->
+<!-- ======================================== -->
 
 ## 🚀 Live Projects
 
@@ -124,10 +124,63 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 ---
 
-<!-- ================================ -->
-<!--         SKILLS / FLEX           -->
-<!-- ================================ -->
+<!-- ======================================== -->
+<!--         SKILLS / FLEX SECTION           -->
+<!-- ======================================== -->
 
-## ⚡ Skills & Tech Stack
+## ⚡ Skills & Tools
 
-### Primary (Modern Weapons)
+### Primary Stack (Modern Weapons)
+<div>
+   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   <img alt="Vite" src="https://img.shields.io/badge/Vite-%2364DCFF?style=for-the-badge&logo=vite&logoColor=white" />
+   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
+   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### Additional / Secondary Stack
+<div>
+   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23e10098?style=for-the-badge&logo=graphql&logoColor=white" />
+   <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</div>
+
+---
+
+<!-- ======================================== -->
+<!--           PRINCIPLES / PHILOSOPHY        -->
+<!-- ======================================== -->
+
+## 🎯 My Principles
+
+- **Build fast, build well** — speed without compromise  
+- **Ship products, not just code** — real value over lines of code  
+- **Solve problems, delight users** — simplicity is elegance  
+
+---
+
+<!-- ======================================== -->
+<!--          CONTACT / REACH ME              -->
+<!-- ======================================== -->
+
+## 📫 Contact
+
+- Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)  
+- LinkedIn: [linkedin.com/in/lyamoudi](https://www.linkedin.com/in/lyamoudi/)  
+- Portfolio: [lyam0udi.netlify.app](https://lyam0udi.netlify.app/)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/footer-line.svg" width="200"/>
+</p>

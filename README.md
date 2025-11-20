@@ -77,10 +77,10 @@ I'm currently working on a web portfolio template kit application using **Vite v
   <img src="https://raw.githubusercontent.com/Lyam0udi/Lyam0udi/main/assets/hero-logo.png" width="250"/>
 </p>
 
-<h1 align="center">Hi, I'm Ilias Lyamoudi 👋💻</h1>
+<h1 align="center">Hi, I'm Ilias ! </h1>
 
 <p align="center">
-I build <strong>templates, CMS tools, and digital products</strong> — solo, fast, and precise.
+I build <strong>templates, CMS tools, and digital products</strong> ; solo, clean, fast, and precise.
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ I build <strong>templates, CMS tools, and digital products</strong> — solo, fa
 ## 🛠️ About Me
 
 I started as a software engineer mastering both front-end and back-end.  
-Now, I’m a **solo indie builder** — turning ideas into **templates, CMSs, and practical tools** that people actually use.  
+Now, I’m a **Solo Dev** — turning ideas into **templates, CMSs, ERPs, and practical tools** that people actually use.  
 
 I thrive at the intersection of **logic and creativity**, building **fast, elegant, and production-ready products** with minimal overhead.
 

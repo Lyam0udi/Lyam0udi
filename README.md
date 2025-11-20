@@ -1,3 +1,5 @@
+![Black and White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
+
 <!-- ======================================== -->
 <!--          HERO / INTRO SECTION            -->
 <!-- ======================================== -->

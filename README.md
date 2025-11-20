@@ -67,112 +67,67 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 
 
-
-<!-- ======================================== -->
-<!--          HERO / INTRO SECTION            -->
-<!-- ======================================== -->
+<!-- ================================ -->
+<!--        HERO / INTRO SECTION      -->
+<!-- ================================ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/header-line.svg" alt="Line Divider" width="200"/>
+  <pre>
+  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
+  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
+  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
+  </pre>
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Ilias Lyamoudi 👋</h1>
 <p align="center">
-  I build digital products and templates that work beautifully — solo, fast, and precise.
+  I build **templates, CMS tools, and digital products** — solo, fast, and precise.
 </p>
 <p align="center">
   <strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/header-line.svg" alt="Line Divider" width="200"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/line-divider.svg" width="200"/>
 </p>
 
 ---
 
-<!-- ======================================== -->
-<!--          STORYTELLING SECTION            -->
-<!-- ======================================== -->
+<!-- ================================ -->
+<!--      STORYTELLING SECTION        -->
+<!-- ================================ -->
 
 ## 🛠️ About Me
 
 I started as a software engineer mastering both front-end and back-end.  
-Today, I’m a solo indie builder and creator — turning ideas into **templates, CMSs, and small tools** that people actually use.  
+Now, I’m a **solo indie builder** — turning ideas into **templates, CMSs, and practical tools** that people actually use.  
 
-I thrive at the intersection of **logic and creativity**, building fast, elegant, and functional products with a clear purpose.  
+I thrive at the intersection of **logic and creativity**, building **fast, elegant, and production-ready products** with minimal overhead.
+
+> “I build tools that work silently but impress profoundly.”
 
 ---
 
-<!-- ======================================== -->
-<!--            PROJECTS / LIVE SECTION       -->
-<!-- ======================================== -->
+<!-- ================================ -->
+<!--          LIVE PROJECTS           -->
+<!-- ================================ -->
 
 ## 🚀 Live Projects
 
-| Project | Description | Tech | Live |
+| Project | Description | Tech | Demo |
 |---------|------------|------|------|
-| Restaurant Kit Template | Fully responsive template for restaurants | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
-| Artist Gallery | Freelance project for an artist portfolio | Laravel + React + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
+| Restaurant Kit Template | Responsive template for restaurants | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
+| Artist Gallery | Freelance project for an artist | Laravel + React + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
 | Personal Portfolio | My showcase & hub of templates | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
 
 > Each project is crafted solo, focusing on **speed, functionality, and clean design**.
 
 ---
 
-<!-- ======================================== -->
-<!--             SKILLS / FLEX SECTION       -->
-<!-- ======================================== -->
+<!-- ================================ -->
+<!--         SKILLS / FLEX           -->
+<!-- ================================ -->
 
-## ⚡ Skills
+## ⚡ Skills & Tech Stack
 
-**Primary Stack**  
-React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳  
-
-**Secondary / Legacy Skills**  
-Java / Spring 🌱 | Angular ⬢ | MySQL / Postgres / MongoDB 🗄️ | Git / GitHub 🔧 | jQuery / AJAX 🌐 | GraphQL 📡 | npm 📦 | VSCode / IntelliJ 🖥️  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skill-Fast%20Learner-blue?style=flat-square" alt="Fast Learner Badge"/>
-  <img src="https://img.shields.io/badge/Skill-Problem%20Solver-green?style=flat-square" alt="Problem Solver Badge"/>
-  <img src="https://img.shields.io/badge/Skill-Product%20Thinking-yellow?style=flat-square" alt="Product Thinking Badge"/>
-</p>
-
-> I specialize in building **modern, high-quality, production-ready templates** with minimal overhead.  
-
----
-
-<!-- ======================================== -->
-<!--           PRINCIPLES / PHILOSOPHY        -->
-<!-- ======================================== -->
-
-## 🎯 My Principles
-
-- **Build fast, build well** — speed without compromise  
-- **Ship products, not just code** — real value > lines of code  
-- **Solve problems, delight users** — simplicity is elegance  
-
----
-
-<!-- ======================================== -->
-<!--           CONTACT / REACH ME             -->
-<!-- ======================================== -->
-
-## 📫 Contact
-
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [Your Profile](#)  
-- Twitter: [@YourHandle](#)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/footer-line.svg" alt="Line Divider" width="200"/>
-</p>
-
----
-
-<!-- ======================================== -->
-<!--           UNIQUE VISUAL STYLE            -->
-<!-- ======================================== -->
-
-<p align="center">
-  <i>“I build tools that work silently but impress profoundly.”</i>
-</p>
+### Primary (Modern Weapons)

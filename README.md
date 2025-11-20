@@ -131,10 +131,10 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=radical&hide_rank=true&count_private=true" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=radical&hide_rank=true&count_private=true" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&langs_count=6&theme=radical&layout=compact" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&langs_count=6&theme=radical&layout=compact" height="180"/>
     </td>
   </tr>
 </table>

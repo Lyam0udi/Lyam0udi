@@ -73,6 +73,14 @@ I'm currently working on a web portfolio template kit application using **Vite v
 <!--          HERO / INTRO SECTION            -->
 <!-- ======================================== -->
 
+<p align="center">
+  <pre>
+  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
+  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
+  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
+  </pre>
+</p>
+
 <h1 align="center">Hi, I'm Ilias Lyamoudi 👋💻</h1>
 
 <p align="center">

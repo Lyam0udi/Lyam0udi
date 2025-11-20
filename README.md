@@ -1,4 +1,12 @@
 
+<p align="center">
+  <pre>
+  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
+  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
+  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
+  </pre>
+</p>
+
 ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
 
 # Hey, I'm Ilias! 👋💻

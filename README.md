@@ -61,7 +61,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lyam0udi&theme=radical" width="80%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Lyam0udi&theme=radical" width="80%" />
 </p>
 
 ---

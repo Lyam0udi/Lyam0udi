@@ -67,28 +67,24 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 
 
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
+
 <!-- ======================================== -->
 <!--          HERO / INTRO SECTION            -->
 <!-- ======================================== -->
 
-<p align="center">
-  <pre>
-  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
-  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
-  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
-  </pre>
-</p>
+<h1 align="center">Hi, I'm Ilias Lyamoudi 👋💻</h1>
 
-<h1 align="center">Hi, I'm Ilias Lyamoudi 👋</h1>
 <p align="center">
-  I build <strong>templates, CMS tools, and digital products</strong> — solo, fast, and precise.
-</p>
-<p align="center">
-  <strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
+I build <strong>templates, CMS tools, and digital products</strong> — solo, fast, and precise.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/line-divider.svg" width="200"/>
+<strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/line-divider.svg" width="200"/>
 </p>
 
 ---
@@ -121,6 +117,18 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 | Personal Portfolio | My showcase & hub of templates | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](#) |
 
 > Each project is crafted solo, focusing on **speed, functionality, and clean design**.
+
+---
+
+<!-- ======================================== -->
+<!--           GITHUB STATS / CHARTS          -->
+<!-- ======================================== -->
+
+<p align="left">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" />
+<br clear="left"/>
+</p>
 
 ---
 
@@ -178,9 +186,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 ## 📫 Contact
 
 - Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)  
-- LinkedIn: [linkedin.com/in/lyamoudi](https://www.linkedin.com/in/lyamoudi/)  
+- LinkedIn: [linkedin.com/in/lyamoudi](https://www.linkedin.com/in/lyam0udi/)  
 - Portfolio: [lyam0udi.netlify.app](https://lyam0udi.netlify.app/)  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/footer-line.svg" width="200"/>
-</p>
+<img align="right" alt="Coding GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>

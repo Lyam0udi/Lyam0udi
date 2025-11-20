@@ -1,12 +1,4 @@
 
-<p align="center">
-  <pre>
-  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
-  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
-  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
-  </pre>
-</p>
-
 ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
 
 # Hey, I'm Ilias! 👋💻
@@ -75,18 +67,14 @@ I'm currently working on a web portfolio template kit application using **Vite v
 
 
 
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
+![Black and White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/147a1ea3-fc80-48d6-9e7a-d4e003534bcc)
 
 <!-- ======================================== -->
 <!--          HERO / INTRO SECTION            -->
 <!-- ======================================== -->
 
 <p align="center">
-  <pre>
-  ┏━━━┓┏━━━┓┏━━━┓┏━━━┓┏━━━┓
-  ┃ I ┃┃ L ┃┃ I ┃┃ A ┃┃ S ┃
-  ┗━━━┛┗━━━┛┗━━━┛┗━━━┛┗━━━┛
-  </pre>
+  <img src="https://raw.githubusercontent.com/Lyam0udi/Lyam0udi/main/assets/hero-logo.png" width="250"/>
 </p>
 
 <h1 align="center">Hi, I'm Ilias Lyamoudi 👋💻</h1>
@@ -100,7 +88,7 @@ I build <strong>templates, CMS tools, and digital products</strong> — solo, fa
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/line-divider.svg" width="200"/>
+<img src="https://raw.githubusercontent.com/Lyam0udi/Lyam0udi/main/assets/line-divider.svg" width="200"/>
 </p>
 
 ---
@@ -140,10 +128,13 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 <!--           GITHUB STATS / CHARTS          -->
 <!-- ======================================== -->
 
-<p align="left">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=compact" />
-<br clear="left"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyam0udi&show_icons=true&theme=radical&hide_rank=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyam0udi&layout=default&langs_count=8&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyam0udi&theme=radical" width="80%" />
 </p>
 
 ---
@@ -155,7 +146,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 ## ⚡ Skills & Tools
 
 ### Primary Stack (Modern Weapons)
-<div>
+<div align="center">
    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img alt="Vite" src="https://img.shields.io/badge/Vite-%2364DCFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -166,7 +157,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 </div>
 
 ### Additional / Secondary Stack
-<div>
+<div align="center">
    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -202,7 +193,10 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 ## 📫 Contact
 
 - Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)  
-- LinkedIn: [linkedin.com/in/lyamoudi](https://www.linkedin.com/in/lyam0udi/)  
+- LinkedIn: [linkedin.com/in/lyam0udi](https://www.linkedin.com/in/lyam0udi/)  
 - Portfolio: [lyam0udi.netlify.app](https://lyam0udi.netlify.app/)  
 
-<img align="right" alt="Coding GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="47%"/>
+<p align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="300"/>
+</p>
+

@@ -190,11 +190,11 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 <!--          CONTACT / REACH ME              -->
 <!-- ======================================== -->
 
-## 📫 Contact
+## 🌐 Find Me Around the Web
 
-- Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)  
-- LinkedIn: [linkedin.com/in/lyam0udi](https://www.linkedin.com/in/lyam0udi/)  
-- Portfolio: [lyam0udi.netlify.app](https://lyam0udi.netlify.app/)  
+- 🛠 Check out my [Personal Portfolio](https://lyam0udi.netlify.app/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyam0udi/)
+- 📫 You can reach me via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
 
 <p align="center">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qs4vghgnwjau89yasub1f8edpnlxuepoq8zyqft4&rid=giphy.gif&ct=g" width="300"/>

@@ -181,9 +181,9 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 ## 🎯 My Principles
 
-- **Build fast, build well** — speed without compromise  
-- **Ship products, not just code** — real value over lines of code  
-- **Solve problems, delight users** — simplicity is elegance  
+- **Build fast, build well**; speed without compromise.  
+- **Ship products, not just code**; real value over lines of code  
+- **Solve problems, delight users**; simplicity is elegance  
 
 ---
 

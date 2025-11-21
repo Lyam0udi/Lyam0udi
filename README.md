@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Ilias ! </h1>
 
 <p align="center">
-I build <strong>templates, CMS tools, and digital products</strong> ; solo, clean, fast, and precise.
+I build <strong>templates, CMSs, ERPs, SaaS and practical digital tools</strong> ; solo, clean, fast, and precise.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I build <strong>templates, CMS tools, and digital products</strong> ; solo, clea
 ## 🛠️ About Me
 
 I started as a software engineer mastering both front-end and back-end.  
-Now, I’m a **Solo Dev**; turning ideas into **templates, CMSs, ERPs, SaaS and practical tools** that people actually use.  
+Now, I’m a **Solo Dev**; turning ideas into **templates, CMSs, ERPs, SaaS and practical digital tools** that people actually use.  
 
 I thrive at the intersection of **logic and creativity**, building **fast, elegant, and production-ready products** with minimal overhead.
 

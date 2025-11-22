@@ -13,7 +13,7 @@ I build <strong>templates, CMSs, ERPs, SaaS and practical digital tools</strong>
 </p>
 
 <p align="center">
-<strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
+<strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳 .</strong>
 </p>
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>

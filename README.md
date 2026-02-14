@@ -44,6 +44,7 @@ I thrive at the intersection of **logic and creativity**, building **fast, elega
 
 | Project | Description | Tech | Demo |
 |---------|------------|------|------|
+| Dywan Dev Market Place | My Portfolio as Dywan Dev Studio | Nuxt + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://dywan-dev.vercel.app/) |
 | Restaurant Kit Template | Responsive template for restaurants | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
 | Artist Gallery | Freelance project for an artist | Laravel + Vue.js + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
 | Personal Portfolio | My showcase & hub of templates | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.netlify.app/) |

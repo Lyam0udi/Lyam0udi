@@ -27,12 +27,15 @@ I build <strong>templates, CMSs, ERPs, SaaS and practical digital tools</strong>
 
 ## 🛠️ About Me
 
-I started as a software engineer mastering both front-end and back-end.  
-Now, I’m a **Solo Dev**; turning ideas into **templates, CMSs, ERPs, SaaS and practical digital tools** that people actually use.  
+I am a **Product-Oriented Software Engineer** with a deep focus on building scalable, high-performance web applications. My expertise lies in bridging the gap between robust backend logic (**Laravel**) and reactive, pixel-perfect frontends (**React / Inertia.js**).
 
-I thrive at the intersection of **logic and creativity**, building **fast, elegant, and production-ready products** with minimal overhead.
+Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and UI templates with a systematic focus on:
 
-> “I build tools that work silently but impress profoundly.”
+- ⚡**Performance:** Achieving 90+ Lighthouse scores  
+- 🌍**Global Reach:** Native LTR/RTL support for international markets  
+- 🧱**Quality:** Clean, SOLID architecture that scales with business needs  
+
+> "I don't just write code; I build tools that transform business visions into world-class digital products."
 
 ---
 

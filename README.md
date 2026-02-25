@@ -10,11 +10,11 @@
 <h1 align="center">Hi, I'm Ilias ! </h1>
 
 <p align="center">
-I build <strong>templates, CMSs, ERPs, SaaS and practical digital tools</strong> ; solo, clean, fast, and precise.
+Software Engineer | Specializing in High-Performance Fullstack Architectures
 </p>
 
 <p align="center">
-<strong>React ⚛️ | TailwindCSS 🎨 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
+<strong>React ⚛️ | TailwindCSS 🎨 | Inertia.js 🔗 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
 </p>
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>

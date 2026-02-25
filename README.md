@@ -52,8 +52,6 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 | Chat Rouge Art | Fullstack Artistic Platform & Custom Admin Dashboard | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
 | Personal Hub | Main portfolio & template showcase | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.netlify.app/) |
 
-> Each project is crafted solo, focusing on **speed, functionality, and clean design**.
-
 ---
 
 <!-- ======================================== -->

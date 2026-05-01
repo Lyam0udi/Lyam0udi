@@ -47,7 +47,7 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 
 | Project | Description | Tech | Demo |
 |---------|------------|------|------|
-| Dywan Dev | SaaS Ecosystem & UI Laboratory | Next.js + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://dywan-dev.vercel.app/) |
+| Dywan Dev | SaaS Ecosystem & UI Laboratory | Next.js + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.dywandev.com/) |
 | Savoura Dywan | High-performance multi-variant template engine (PWA & RTL) | React 19 + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
 | Chat Rouge Art | Fullstack Artistic Platform & Custom Admin Dashboard | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
 | Personal Hub | Main portfolio & template showcase | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.netlify.app/) |

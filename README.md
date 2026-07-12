@@ -93,16 +93,15 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
    <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-%23121011?style=for-the-badge&logo=pinecone&logoColor=white" />
    <img alt="n8n" src="https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-* **Orchestration & Workflow:** LangGraph (Stateful, Cyclic Loops), CrewAI (Multi-Agent Systems), DywanFlow Protocol
+* **Orchestration & Workflow:** LangGraph (Stateful, Cyclic Loops), CrewAI (Multi-Agent Systems)
 * **Failure Engineering & Integrity:** Circuit Breakers, Idempotency Patterns, Structured JSON Outputs (Pydantic), Data Sanitization
 * **Context & Memory Infrastructure:** Vector DB Indexing (Pinecone/ChromaDB), Long-Horizon Memory (Mem0), Context Grooming & Token Pruning
 * **AI Pipelines & Integrations:** Model Context Protocol (MCP), Function Calling API Layers, FastAPI, n8n Automation, Semantic Routing (LiteLLM)
 * **Evals & Observability:** Agentic Benchmarking, Context Drift Mitigation, Trace Logs (LangSmith/AgentOps)
-* **DNA Governance:** System Prompt Optimization (`.cursorrules`), Knowledge Extraction Lifecycle (`DOCS.md`)
-* **Models & Inference Scaling:** Claude 3.5 Sonnet, OpenAI o1/GPT-4o, Groq LPUs (High-speed Inference), Ollama Local Sandboxing
+* **DNA Governance:** System Prompt Optimization (`.cursorrules` and `CLAUDE.md`), Knowledge Extraction Lifecycle (`DOCS.md`)
+* **Models & Inference Scaling:** Claude 3.5 Sonnet, OpenAI o1/GPT-4o, Groq LPUs (High-speed Inference), Ollama and Gemma Local Sandboxing
 
 ### Additional / Secondary Stack
 <div align="center">

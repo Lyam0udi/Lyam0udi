@@ -84,6 +84,11 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
 </div>
 
 ### 🤖 IA Stack (Agentic Orchestration & Reliability Architecture)
@@ -108,11 +113,7 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23e10098?style=for-the-badge&logo=graphql&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />

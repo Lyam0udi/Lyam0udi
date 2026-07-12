@@ -86,6 +86,24 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+### 🤖 IA Stack (Agentic Orchestration & Reliability Architecture)
+<div align="center">
+   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-%23000000?style=for-the-badge&logo=langchain&logoColor=white" />
+   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-%23121011?style=for-the-badge&logo=pinecone&logoColor=white" />
+   <img alt="n8n" src="https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+* **System Design & Governance:** Custom **DywanFlow** Protocol, Strict Behavioral Guardrails via Environment DNA (`.cursorrules` optimization), Knowledge Extraction pipelines (`DOCS.md` lifecycle management), Context Grooming & Token Pruning.
+* **Orchestration Frameworks:** LangGraph (Stateful, cyclic workflow graphs for self-correcting execution loops), CrewAI (Multi-Agent Specialization System architecture).
+* **Failure Engineering & Data Integrity:** Deterministic Recovery Patterns, Circuit Breakers for agent loops, Idempotency architectures, Strict JSON Outputs via Pydantic schemas, Data Sanitization.
+* **Context & Long-Horizon Memory:** Vector Database Indexing (Pinecone, ChromaDB, Weaviate), Hybrid RAG Frameworks, Ephemeral & Long-Term Agentic Memory Management (`Mem0`).
+* **AI Tooling & Automation Pipelines:** Model Context Protocol (MCP), Function Calling API layers, FastAPI backends, `n8n` workflow engines, Semantic Routers & Economic Cost Routing (`LiteLLM`).
+* **Evals & Observability:** Agentic Benchmarking, Context Drift Monitoring, Trace Logs & Regression Prevention (`LangSmith`, `AgentOps`).
+* **Models & Inference Optimization:** Claude 3.5 Sonnet & OpenAI o1/GPT-4o (High-Reasoning Orchestrators), Llama 3.2 (Local Host tuning), Groq LPUs (Ultra-fast 300+ tk/s execution scaling), Ollama (Edge sandbox environments).
+
 ### Additional / Secondary Stack
 <div align="center">
    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />

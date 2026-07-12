@@ -96,13 +96,13 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-* **System Design & Governance:** Custom **DywanFlow** Protocol, Strict Behavioral Guardrails via Environment DNA (`.cursorrules` optimization), Knowledge Extraction pipelines (`DOCS.md` lifecycle management), Context Grooming & Token Pruning.
-* **Orchestration Frameworks:** LangGraph (Stateful, cyclic workflow graphs for self-correcting execution loops), CrewAI (Multi-Agent Specialization System architecture).
-* **Failure Engineering & Data Integrity:** Deterministic Recovery Patterns, Circuit Breakers for agent loops, Idempotency architectures, Strict JSON Outputs via Pydantic schemas, Data Sanitization.
-* **Context & Long-Horizon Memory:** Vector Database Indexing (Pinecone, ChromaDB, Weaviate), Hybrid RAG Frameworks, Ephemeral & Long-Term Agentic Memory Management (`Mem0`).
-* **AI Tooling & Automation Pipelines:** Model Context Protocol (MCP), Function Calling API layers, FastAPI backends, `n8n` workflow engines, Semantic Routers & Economic Cost Routing (`LiteLLM`).
-* **Evals & Observability:** Agentic Benchmarking, Context Drift Monitoring, Trace Logs & Regression Prevention (`LangSmith`, `AgentOps`).
-* **Models & Inference Optimization:** Claude 3.5 Sonnet & OpenAI o1/GPT-4o (High-Reasoning Orchestrators), Llama 3.2 (Local Host tuning), Groq LPUs (Ultra-fast 300+ tk/s execution scaling), Ollama (Edge sandbox environments).
+* **Orchestration & Workflow:** LangGraph (Stateful, Cyclic Loops), CrewAI (Multi-Agent Systems), DywanFlow Protocol
+* **Failure Engineering & Integrity:** Circuit Breakers, Idempotency Patterns, Structured JSON Outputs (Pydantic), Data Sanitization
+* **Context & Memory Infrastructure:** Vector DB Indexing (Pinecone/ChromaDB), Long-Horizon Memory (Mem0), Context Grooming & Token Pruning
+* **AI Pipelines & Integrations:** Model Context Protocol (MCP), Function Calling API Layers, FastAPI, n8n Automation, Semantic Routing (LiteLLM)
+* **Evals & Observability:** Agentic Benchmarking, Context Drift Mitigation, Trace Logs (LangSmith/AgentOps)
+* **DNA Governance:** System Prompt Optimization (`.cursorrules`), Knowledge Extraction Lifecycle (`DOCS.md`)
+* **Models & Inference Scaling:** Claude 3.5 Sonnet, OpenAI o1/GPT-4o, Groq LPUs (High-speed Inference), Ollama Local Sandboxing
 
 ### Additional / Secondary Stack
 <div align="center">

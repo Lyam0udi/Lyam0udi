@@ -50,7 +50,7 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 | Dywan Dev | SaaS Ecosystem & UI Laboratory | Next.js + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.dywandev.com/) |
 | Savoura Dywan | High-performance multi-variant template engine (PWA & RTL) | React 19 + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
 | Chat Rouge Art | Fullstack Artistic Platform & Custom Admin Dashboard | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
-| Personal Hub | Main portfolio & template showcase | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.netlify.app/) |
+| Personal Hub | Main portfolio & template showcase | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.vercel.app/) |
 
 ---
 
@@ -144,7 +144,7 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 
 ## 🌐 Find Me Around the Web
 
-- 🛠 Check out my [Personal Portfolio](https://lyam0udi.netlify.app/)
+- 🛠 Check out my [Personal Portfolio](https://lyam0udi.vercel.app/)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyam0udi/)
 - 📫 You can reach me via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
 

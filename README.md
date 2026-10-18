@@ -3,11 +3,11 @@
 
 <!-- ======================================== -->
 <!--          HERO / INTRO SECTION            -->
-<!-- ======================================== -->
+<!-- ======================================== -->  
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>
 
-<h1 align="center">Ilias</h1>
+<h1 align="center">Ilias Lyamoudi</h1>
 
 <p align="center">
 <strong>Product Engineer &amp; AI Systems Builder · Founder of Dywan Dev</strong>

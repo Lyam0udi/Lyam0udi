@@ -10,7 +10,7 @@
 <h1 align="center">Ilias Lyamoudi</h1>
 
 <p align="center">
-<strong>Founder of Dywan Dev · Product Engineer &amp; AI Systems Builder</strong>
+<strong>Product Engineer &amp; AI Systems Builder · Founder of Dywan Dev</strong>
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@ I design and ship production-grade digital products, from client platforms to Dy
 </p>
 
 <p align="center">
-  <a href="https://lyam0udi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lyam0udi.vercel.app-black?style=for-the-badge" /></a>
-  <a href="https://www.dywandev.com/"><img alt="Dywan Dev" src="https://img.shields.io/badge/Studio-Dywan%20Dev-fa6c24?style=for-the-badge" /></a>
+  <a href="https://lyam0udi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge" /></a>
+  <a href="https://www.dywandev.com/"><img alt="Dywan Dev" src="https://img.shields.io/badge/Dywan%20Dev-fa6c24?style=for-the-badge" /></a>
 </p>
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>
@@ -36,7 +36,7 @@ I design and ship production-grade digital products, from client platforms to Dy
 
 ## 🛠️ About
 
-I am a product engineer and the founder of **Dywan Dev**. I design and ship complete digital systems: public product surfaces, admin platforms, content flows, and the integrations that make them production-ready.
+I am a **Product Engineer, AI Systems Builder & the founder of Dywan Dev**. I design and ship complete digital systems: public product surfaces, admin platforms, content flows, and the integrations that make them production-ready.
 
 After years of focused full-stack engineering, I built Dywan Dev as the studio brand for my professional work: templates, client delivery, and custom product platforms. In parallel, I run private local AI systems R&D to support reliable product generation inside the studio. The tooling stays proprietary; the proof is what ships.
 

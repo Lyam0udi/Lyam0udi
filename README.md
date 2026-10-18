@@ -7,14 +7,23 @@
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>
 
-<h1 align="center">Hi, I'm Ilias ! </h1>
+<h1 align="center">Ilias Lyamoudi</h1>
 
 <p align="center">
-Software Engineer | Specializing in High-Performance Fullstack Architectures
+<strong>Founder of Dywan Dev · Product Engineer &amp; AI Systems Builder</strong>
 </p>
 
 <p align="center">
-<strong>React ⚛️ | TailwindCSS 🎨 | Inertia.js 🔗 | Vite ⚡ | Next.js 🔍 | Laravel 💻 | PHP 🛠️ | Docker 🐳</strong>
+I design and ship production-grade digital products, from client platforms to Dywan studio systems. Based in Morocco.
+</p>
+
+<p align="center">
+<strong>React ⚛️ | Next.js 🔍 | Laravel 💻 | Inertia.js 🔗 | Spring ☕ | TailwindCSS 🎨 | Vite ⚡ | Docker 🐳</strong>
+</p>
+
+<p align="center">
+  <a href="https://lyam0udi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lyam0udi.vercel.app-black?style=for-the-badge" /></a>
+  <a href="https://www.dywandev.com/"><img alt="Dywan Dev" src="https://img.shields.io/badge/Studio-Dywan%20Dev-fa6c24?style=for-the-badge" /></a>
 </p>
 
 <p align="center">─── ⋆⋅☆⋅⋆ ───</p>
@@ -25,32 +34,41 @@ Software Engineer | Specializing in High-Performance Fullstack Architectures
 <!--          STORYTELLING SECTION            -->
 <!-- ======================================== -->
 
-## 🛠️ About Me
+## 🛠️ About
 
-I am a **Product-Oriented Software Engineer** with a deep focus on building scalable, high-performance web applications. My expertise lies in bridging the gap between robust backend logic (**Laravel**) and reactive, pixel-perfect frontends (**React / Inertia.js**).
+I am a product engineer and the founder of **Dywan Dev**. I design and ship complete digital systems: public product surfaces, admin platforms, content flows, and the integrations that make them production-ready.
 
-Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and UI templates with a systematic focus on:
+After years of focused full-stack engineering, I built Dywan Dev as the studio brand for my professional work: templates, client delivery, and custom product platforms. In parallel, I run private local AI systems R&D to support reliable product generation inside the studio. The tooling stays proprietary; the proof is what ships.
 
-- ⚡**Performance:** Achieving 90+ Lighthouse scores  
-- 🌍**Global Reach:** Native LTR/RTL support for international markets  
-- 🧱**Quality:** Clean, SOLID architecture that scales with business needs  
-
-> "I don't just write code; I build tools that transform business visions into world-class digital products."
+Earlier enterprise and freelance work remains part of my foundation. The work that defines me now lives under Dywan Dev and the systems I build end to end.
 
 ---
 
 <!-- ======================================== -->
-<!--          LIVE PROJECTS SECTION           -->
+<!--          SELECTED WORK SECTION           -->
 <!-- ======================================== -->
 
-## 🚀 Live Projects
+## 🚀 Selected Work
 
-| Project | Description | Tech | Demo |
-|---------|------------|------|------|
-| Dywan Dev | SaaS Ecosystem & UI Laboratory | Next.js + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.dywandev.com/) |
-| Savoura Dywan | High-performance multi-variant template engine (PWA & RTL) | React 19 + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
-| Chat Rouge Art | Fullstack Artistic Platform & Custom Admin Dashboard | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
-| Personal Hub | Main portfolio & template showcase | React + Tailwind + Vite | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lyam0udi.vercel.app/) |
+| Project | What it is | Stack | Demo |
+|---------|------------|-------|------|
+| Hafsa Psychomotricité | Pediatric clinic platform in Casablanca: marketing site, admin CMS, leads, booking, Moroccan GEO/SEO | Next.js + Supabase + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://hafsa-psychomot.vercel.app/) |
+| AutoLease Dywan | Car-rental booking platform for Morocco: live fleet, dates, MAD pricing, FR/AR/EN, pay-at-agency | Next.js + PostgreSQL | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://auto-lease-dywan.vercel.app/) |
+| Savoura Dywan | One configurable restaurant template with four variants, EN/FR/AR + native RTL, SEO structure | React 19 + Vite + Tailwind | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://savoura-dywan.vercel.app/) |
+| Le Chat Rouge Art | Artist platform with gallery, content administration, auth, and persistent dark mode | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
+| EduCore Dywan | Educational platform with landing flows, blog, student enrollment, and admin CRUD | Laravel + Inertia.js + React | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.dywandev.com/project/educore-dywan) |
+
+Commercial work and studio catalog: [dywandev.com](https://www.dywandev.com/) · Full case details: [lyam0udi.vercel.app](https://lyam0udi.vercel.app/)
+
+---
+
+<!-- ======================================== -->
+<!--           PRIVATE AI R&D SECTION         -->
+<!-- ======================================== -->
+
+## 🧠 Private AI Systems R&D
+
+I maintain proprietary local AI systems for reliable product generation. Used internally to accelerate Dywan delivery. Not a public product. Public proof focuses on shipped platforms, not internal tooling.
 
 ---
 
@@ -70,12 +88,14 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 ---
 
 <!-- ======================================== -->
-<!--         SKILLS / FLEX SECTION           -->
+<!--         SKILLS / CAPABILITY MAP          -->
 <!-- ======================================== -->
 
 ## ⚡ Skills & Tools
 
-### Primary Stack (Modern Weapons)
+The stack and disciplines behind Dywan products and client platforms.
+
+### Primary Stack
 <div align="center">
    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -88,10 +108,9 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
 </div>
 
-### 🤖 IA Stack (Agentic Orchestration & Reliability Architecture)
+### 🤖 AI Stack (Agentic Orchestration & Reliability)
 <div align="center">
    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-%23000000?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -100,13 +119,13 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
    <img alt="n8n" src="https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
-* **Orchestration & Workflow:** LangGraph (Stateful, Cyclic Loops), CrewAI (Multi-Agent Systems)
-* **Failure Engineering & Integrity:** Circuit Breakers, Idempotency Patterns, Structured JSON Outputs (Pydantic), Data Sanitization
-* **Context & Memory Infrastructure:** Vector DB Indexing (Pinecone/ChromaDB), Long-Horizon Memory (Mem0), Context Grooming & Token Pruning
-* **AI Pipelines & Integrations:** Model Context Protocol (MCP), Function Calling API Layers, FastAPI, n8n Automation, Semantic Routing (LiteLLM)
-* **Evals & Observability:** Agentic Benchmarking, Context Drift Mitigation, Trace Logs (LangSmith/AgentOps)
-* **DNA Governance:** System Prompt Optimization (`.cursorrules` and `CLAUDE.md`), Knowledge Extraction Lifecycle (`DOCS.md`)
-* **Models & Inference Scaling:** Claude 3.5 Sonnet, OpenAI o1/GPT-4o, Groq LPUs (High-speed Inference), Ollama and Gemma Local Sandboxing
+* **Orchestration & Workflow:** LangGraph (stateful, cyclic loops), CrewAI (multi-agent systems)
+* **Failure Engineering & Integrity:** Circuit breakers, idempotency patterns, structured JSON outputs (Pydantic), data sanitization
+* **Context & Memory Infrastructure:** Vector DB indexing (Pinecone/ChromaDB), long-horizon memory (Mem0), context grooming and token pruning
+* **AI Pipelines & Integrations:** Model Context Protocol (MCP), function calling API layers, FastAPI, n8n automation, semantic routing (LiteLLM)
+* **Evals & Observability:** Agentic benchmarking, context drift mitigation, trace logs (LangSmith/AgentOps)
+* **Prompt & Knowledge Governance:** System prompt optimization (`.cursorrules` and `CLAUDE.md`), knowledge extraction lifecycle (`DOCS.md`)
+* **Models & Inference:** Claude 3.5 Sonnet, OpenAI o1/GPT-4o, Groq LPUs (high-speed inference), Ollama and Gemma local sandboxing
 
 ### Additional / Secondary Stack
 <div align="center">
@@ -127,14 +146,31 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 ---
 
 <!-- ======================================== -->
+<!--          SERVICES THROUGH DYWAN          -->
+<!-- ======================================== -->
+
+## 🧩 Services via Dywan Dev
+
+Engagements offered through Dywan Dev, from ready-made assets to custom product builds.
+
+- **Custom Product Platforms:** full-stack web apps with public and admin surfaces. Laravel, React, Next.js, Spring where the product needs them. Auth, CMS, lead flows, and production deployment.
+- **Templates & Digital Assets:** production-ready templates under Dywan Dev. Configurable UI systems, including LTR/RTL where relevant. Built for real launch, not demo-only mockups.
+- **Template Implementation:** setup and launch support for non-technical clients. Content, domain, and go-live guidance.
+- **Systems Integration:** connect product surfaces to email, booking, databases, and auth. Reliable delivery over buzzword architecture.
+
+For product catalogs and studio pricing, visit [dywandev.com](https://www.dywandev.com/).
+
+---
+
+<!-- ======================================== -->
 <!--           PRINCIPLES / PHILOSOPHY        -->
 <!-- ======================================== -->
 
-## 🎯 My Principles
+## 🎯 How I Work
 
-- **Build fast, build well**; speed without compromise.  
-- **Ship products, not just code**; real value over lines of code  
-- **Solve problems, delight users**; simplicity is elegance  
+- **Evidence before adjectives:** the proof is what ships.
+- **Ship products, not just code:** real value over lines of code.
+- **Build fast, build well:** clean, maintainable architecture that holds up after launch.
 
 ---
 
@@ -142,11 +178,13 @@ Through my laboratory, **Dywan Dev**, I engineer specialized SaaS solutions and 
 <!--          CONTACT / REACH ME              -->
 <!-- ======================================== -->
 
-## 🌐 Find Me Around the Web
+## 🌐 Get in Touch
 
-- 🛠 Check out my [Personal Portfolio](https://lyam0udi.vercel.app/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyam0udi/)
-- 📫 You can reach me via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
+**Available for product work and studio engagements.**
+
+- 🛠 Portfolio: [lyam0udi.vercel.app](https://lyam0udi.vercel.app/)
+- 🏢 Studio: [dywandev.com](https://www.dywandev.com/)
+- 💼 LinkedIn: [lyam0udi](https://www.linkedin.com/in/lyam0udi/)
+- 📫 Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)
 
 <p align="center">─── ⋆⋅☆⋅✨️Thanks For Your Visit✨️⋅☆⋅⋆ ───</p>
-

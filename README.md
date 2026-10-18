@@ -38,7 +38,7 @@ I design and ship production-grade digital products, from client platforms to Dy
 
 I am a **Product Engineer, AI Systems Builder & the founder of Dywan Dev**. I design and ship complete digital systems: public product surfaces, admin platforms, content flows, and the integrations that make them production-ready.
 
-After years of focused full-stack engineering, I built Dywan Dev as the studio brand for my professional work: templates, client delivery, and custom product platforms. In parallel, I run private local AI systems R&D to support reliable product generation inside the studio. The tooling stays proprietary; the proof is what ships.
+After years of focused full-stack engineering, I built Dywan Dev as the studio brand for my professional work: templates, client delivery, custom product platforms and technical blogging. In parallel, I run private local AI systems R&D to support reliable product generation inside the studio. The tooling stays proprietary; the proof is what ships.
 
 Earlier enterprise and freelance work remains part of my foundation. The work that defines me now lives under Dywan Dev and the systems I build end to end.
 
@@ -58,7 +58,7 @@ Earlier enterprise and freelance work remains part of my foundation. The work th
 | Le Chat Rouge Art | Artist platform with gallery, content administration, auth, and persistent dark mode | Laravel + Inertia.js + Vue.js | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lechatrougeart.com/) |
 | EduCore Dywan | Educational platform with landing flows, blog, student enrollment, and admin CRUD | Laravel + Inertia.js + React | [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.dywandev.com/project/educore-dywan) |
 
-Commercial work and studio catalog: [dywandev.com](https://www.dywandev.com/) · Full case details: [lyam0udi.vercel.app](https://lyam0udi.vercel.app/)
+Commercial work and studio catalog: [Dywan Dev](https://www.dywandev.com/) · Full case details: [Portfolio](https://lyam0udi.vercel.app/)
 
 ---
 
@@ -158,7 +158,7 @@ Engagements offered through Dywan Dev, from ready-made assets to custom product 
 - **Template Implementation:** setup and launch support for non-technical clients. Content, domain, and go-live guidance.
 - **Systems Integration:** connect product surfaces to email, booking, databases, and auth. Reliable delivery over buzzword architecture.
 
-For product catalogs and studio pricing, visit [dywandev.com](https://www.dywandev.com/).
+For product catalogs and studio pricing, visit [Dywan Dev](https://www.dywandev.com/).
 
 ---
 
@@ -182,9 +182,9 @@ For product catalogs and studio pricing, visit [dywandev.com](https://www.dywand
 
 **Available for product work and studio engagements.**
 
-- 🛠 Portfolio: [lyam0udi.vercel.app](https://lyam0udi.vercel.app/)
-- 🏢 Studio: [dywandev.com](https://www.dywandev.com/)
-- 💼 LinkedIn: [lyam0udi](https://www.linkedin.com/in/lyam0udi/)
-- 📫 Email: [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com)
+- 🛠 Check out my [Portfolio](https://lyam0udi.vercel.app/)
+- 🏢 My Studio [Dywan Dev](https://www.dywandev.com/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyam0udi/)
+- 📫 You can reach me via [lyamoudi.ilias@gmail.com](mailto:lyamoudi.ilias@gmail.com).
 
 <p align="center">─── ⋆⋅☆⋅✨️Thanks For Your Visit✨️⋅☆⋅⋆ ───</p>

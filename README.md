@@ -18,7 +18,7 @@ I design and ship production-grade digital products, from client platforms to Dy
 </p>
 
 <p align="center">
-<strong>React ⚛️ | Next.js 🔍 | Laravel 💻 | Inertia.js 🔗 | Spring ☕ | TailwindCSS 🎨 | Vite ⚡ | Docker 🐳</strong>
+<strong>React ⚛️ | Next.js 🔍 | Laravel 💻 | Inertia.js 🔗 | Spring 🍃 | TailwindCSS 🎨 | Vite ⚡ | Docker 🐳</strong>
 </p>
 
 <p align="center">
